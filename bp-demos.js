@@ -25807,7 +25807,7 @@ parcelRequire = function(e, r, t, n) {
             }
             return o.default = t, e && e.set(t, o), o
         }
-        const r = "aqua",
+        const r = "transparent",
             a = "red",
             i = 2,
             s = "tryResNetButton";
